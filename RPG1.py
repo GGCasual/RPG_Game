@@ -38,7 +38,7 @@ class Character(object):
 
 class Hero(Character):
     def __init__(self, name, health, power):
-        super().__init__(name, health, power) ## super(works here too)
+        super().__init__(name, health, power) 
 
 class Goblin(Character):
     def __init__(self, name, health, power):
