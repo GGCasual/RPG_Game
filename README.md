@@ -1,4 +1,4 @@
-# RPG_Game
+# RPG Game
 A simple fantasy game where you, The Hero, fights goblins in a faraway land.
 
 # How To Play
